@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **1gjunior/1gjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
