@@ -41,5 +41,4 @@ Here are some ideas to get you started:
 
 ![Gilberto Junior's Github Stats](https://github-readme-stats.vercel.app/api?username=1gjunior&show_icons=true&theme=tokyonight)
 
-<br />
 ⭐️ From [Gilberto Junior](https://github.com/1gjunior)
