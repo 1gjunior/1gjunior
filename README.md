@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </a>
 
 <br />
-<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/fatcd1PnHPTDW/giphy.gif" />
 
 ### I am Gilberto Junior
 - A Full-Stack Developer & Open Source enthusiast.
