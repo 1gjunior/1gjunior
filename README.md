@@ -37,4 +37,8 @@ Here are some ideas to get you started:
 - Currently working on some of my cool side projects based on Web Development and Mobile Development.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
+<!--END_SECTION:waka-->
+
+![Gilberto Junior's Github Stats](https://github-readme-stats.vercel.app/api?username=1gjunior&show_icons=true&theme=tokyonight)
+
 ⭐️ From [Gilberto Junior](https://github.com/1gjunior)
