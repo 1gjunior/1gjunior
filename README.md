@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://media.giphy.com/media/fatcd1PnHPTDW/giphy.gif" />
 
 ### I am Gilberto Junior
-- A Full-Stack Developer & Open Source enthusiast.
+- A Web Developer & Open Source enthusiast.
 - A Information Systems Undergraduate Student. 
-- Currently working on some of my cool side projects based on Web Development and Mobile Development.
+- Currently working on some of my cool side projects based on Web Development.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 <!--END_SECTION:waka-->
