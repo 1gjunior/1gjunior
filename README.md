@@ -32,10 +32,9 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://media.giphy.com/media/fatcd1PnHPTDW/giphy.gif" />
 
 ### I am Gilberto Junior
-- A Fullstack Developer & Open Source enthusiast.
-- A Information Systems Undergraduate Student. 
-- Currently working on some of my cool side projects based on Node.js & React.js.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+My focus is on native mobile iOS, using Swift and its derivatives, always looking to build quality apps with good performance and always thinking about clean and easy to maintain code.
+
+During my professional experience, I worked with several technologies, also in front-end and hybrid mobile, such as Typescript, Sass, React, Next.js and React Native.
 
 <!--END_SECTION:waka-->
 
